@@ -148,7 +148,7 @@ The `LinearSVC` model achieves strong performance on this dataset:
 
 ## 📝 Author
 
-**Nazneen Akhter**
+**Sumaiya Afrin**
 
 ---
 
